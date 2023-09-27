@@ -1,0 +1,8 @@
+highest = max([12,13,14,15,16])
+lowest = min([12,13,14,15,16])
+count =  len([1,2,3,4,5])
+total =  sum([1,2,3,4,5])
+print('Highest value:',highest)
+print('Lowest value:',lowest)
+print('Length:',count)
+print('Summation:',total)
